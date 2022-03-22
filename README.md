@@ -17,7 +17,7 @@ The application, **store-it** aims to be a one-stop solution for the various ser
 
 A software requirements specification (SRS) is a document that describes what the software will do and how it will be expected to perform. It also describes the product's functionality to fulfill all stakeholders (sellers, buyers) needs.
 
-Link to the SRS: [store.it SRS v0.1 | localghosts](github-assets/store.it_SRS_v0.1_-_localghosts.pdf)
+Link to SRS: [store.it SRS v0.1 | localghosts](github-assets/store.it_SRS_v0.1_-_localghosts.pdf)
 
 ## Software Design Document
 
@@ -27,6 +27,6 @@ Link to SDD: [store.it SDD v0.1 | localghosts](github-assets/store.it_SDD_v0.1_-
 
 ## Software Implementation Document
 
-A software implementation document (SID) is a document that describes how a software product is built to meet a set of technical requirements. This document talks about implementation details like integration, CI/CD, Hosting, VCS; it provides a surface-level overview of codebases and completeness of the application.
+A software implementation document (SID) is a document that describes how a software product is built to meet a set of technical requirements. This document talks about implementation details like integration, CI/CD, hosting, VCS; it provides a surface-level overview of codebases and completeness of the application.
 
 Link to SID: [store.it SID v0.1 | localghosts](github-assets/store.it_SID_v0.1_-_localghosts.pdf)
