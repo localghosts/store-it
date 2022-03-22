@@ -13,6 +13,12 @@ The application, **store-it** aims to be a one-stop solution for the various ser
 
 **Clients**: IITK Vendors and Campus community
 
+## Deployment
+
+The web app is deployed at: [store-it-frontend.herokuapp.com](https://store-it-frontend.herokuapp.com/)
+
+*Note:* This is hosted on Heroku which hibernates upon inactivity on website. It may take upto a minute to load for the first time post inactivity.
+
 ## Software Requirement Specification
 
 A software requirements specification (SRS) is a document that describes what the software will do and how it will be expected to perform. It also describes the product's functionality to fulfill all stakeholders (sellers, buyers) needs.
