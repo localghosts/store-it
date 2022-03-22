@@ -1,0 +1,6 @@
+[submodule "store-it-frontend"]
+	path = store-it-frontend
+	url = https://github.com/localghosts/store-it-frontend
+[submodule "store-it-backend"]
+	path = store-it-backend
+	url = https://github.com/localghosts/store-it-backend
