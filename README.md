@@ -2,14 +2,31 @@
 
 ## About Application
 
-The application was made as course project of [CS253A](https://www.cse.iitk.ac.in/users/isaha/Courses/sdo22.shtml/): Software Development and Operations in spring 2022 under guidance of [Dr. Indranil Saha](https://www.cse.iitk.ac.in/users/isaha/).
+The application was made as a course project of [CS253A](https://www.cse.iitk.ac.in/users/isaha/Courses/sdo22.shtml/): Software Development and Operations in spring 2022 under the guidance of [Dr. Indranil Saha](https://www.cse.iitk.ac.in/users/isaha/).
 
-The application, **store-it** aims to be a one stop solution for the various service providers and stores operators at IITK to catalog their products and services. The residents of IITK can access these online catalogs and place orders directly from the app. Think of it like a platform which digitizes any physical store inside IITK. Broadly, the application will support the following:
+The application, **store-it** aims to be a one-stop solution for the various service providers and stores operators at IITK to catalog their products and services. The residents of IITK can access these online catalogs and place orders directly from the app. Think of it like a platform that digitizes any physical store inside IITK. Broadly, the application will support the following:
 
 - Stakeholders can put a catalog of their products/services.
 - Students can add items to their cart and place orders
 - Stakeholders can update their inventory and prices.
-- Students can get their transaction history and stakeholders can get their sales history.
+- Students can get their transaction history, and stakeholders can get their sales history.
 
-**Clients** : IITK Vendors and Campus community
+**Clients**: IITK Vendors and Campus community
 
+## Software Requirement Specification
+
+A software requirements specification (SRS) is a document that describes what the software will do and how it will be expected to perform. It also describes the product's functionality to fulfill all stakeholders (sellers, buyers) needs.
+
+Link to the SRS: [store.it SRS v0.1 | localghosts](github-assets/store.it_SRS_v0.1_-_localghosts.pdf)
+
+## Software Design Document
+
+A software design document (SDD) describes software created to facilitate analysis, planning, implementation, and decision-making. This explains how a software product or a feature will be built to meet a set of technical requirements. If the requirements document describes the "what" of your project, the design document focuses on the "how".
+
+Link to SDD: [store.it SDD v0.1 | localghosts](github-assets/store.it_SDD_v0.1_-_localghosts.pdf)
+
+## Software Implementation Document
+
+A software implementation document (SID) is a document that describes how a software product is built to meet a set of technical requirements. This document talks about implementation details like integration, CI/CD, Hosting, VCS; it provides a surface-level overview of codebases and completeness of the application.
+
+Link to SID: [store.it SID v0.1 | localghosts](github-assets/store.it_SID_v0.1_-_localghosts.pdf)
