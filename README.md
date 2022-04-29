@@ -40,3 +40,9 @@ Link to SDD: [store.it SDD v0.2 | localghosts](github-assets/store.it_SDD_v0.2_-
 A software implementation document (SID) is a document that describes how a software product is built to meet a set of technical requirements. This document talks about implementation details like integration, CI/CD, hosting, VCS; it provides a surface-level overview of codebases and completeness of the application.
 
 Link to SID: [store.it SID v0.2 | localghosts](github-assets/store.it_SID_v0.2_-_localghosts.pdf)
+
+## Testing Document
+
+Test documentation includes all files that contain information on the testing team's strategy, progress, metrics, and achieved results. The combination of all available data serves to measure the testing effort, control test coverage, and track future project requirements.
+
+Link to Test Doc: [store.it TD v0.2 ](github-assets/store.it_TD_v0.2_-_localghosts.pdf)
