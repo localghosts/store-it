@@ -15,7 +15,7 @@ The application, **store-it** aims to be a one-stop solution for the various ser
 
 ### Project Presentation
 
-The project was presented in front of entire class. [Link to presentation](github-assets//store.it-Presentation-localghosts.pdf)
+The project was presented in front of entire class. [Link to presentation | localghosts](github-assets//store.it-Presentation-localghosts.pdf)
 
 ## Deployment
 
@@ -45,4 +45,10 @@ Link to SID: [store.it SID v0.2 | localghosts](github-assets/store.it_SID_v0.2_-
 
 Test documentation includes all files that contain information on the testing team's strategy, progress, metrics, and achieved results. The combination of all available data serves to measure the testing effort, control test coverage, and track future project requirements.
 
-Link to Test Doc: [store.it TD v0.2 ](github-assets/store.it_TD_v0.2_-_localghosts.pdf)
+Link to Test Doc: [store.it TD v0.2 | localghosts](github-assets/store.it_TD_v0.2_-_localghosts.pdf)
+
+## User Manual
+
+A manual is a document that provides instructions or guidelines on how to perform an activity and serves as a reference book on the activity.
+
+Link to User Manual: [store.it UM v0.2 | localghosts](github-assets/store.it_UM_v0.2_-_localghosts.pdf)
