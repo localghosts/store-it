@@ -29,7 +29,7 @@ Link to SRS: [store.it SRS v0.2 | localghosts](github-assets/store.it_SRS_v0.2_-
 
 A software design document (SDD) describes software created to facilitate analysis, planning, implementation, and decision-making. This explains how a software product or a feature will be built to meet a set of technical requirements. If the requirements document describes the "what" of your project, the design document focuses on the "how".
 
-Link to SDD: [store.it SDD v0.1 | localghosts](github-assets/store.it_SDD_v0.1_-_localghosts.pdf)
+Link to SDD: [store.it SDD v0.2 | localghosts](github-assets/store.it_SDD_v0.2_-_localghosts.pdf)
 
 ## Software Implementation Document
 
