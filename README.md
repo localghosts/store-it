@@ -35,4 +35,4 @@ Link to SDD: [store.it SDD v0.2 | localghosts](github-assets/store.it_SDD_v0.2_-
 
 A software implementation document (SID) is a document that describes how a software product is built to meet a set of technical requirements. This document talks about implementation details like integration, CI/CD, hosting, VCS; it provides a surface-level overview of codebases and completeness of the application.
 
-Link to SID: [store.it SID v0.1 | localghosts](github-assets/store.it_SID_v0.1_-_localghosts.pdf)
+Link to SID: [store.it SID v0.2 | localghosts](github-assets/store.it_SID_v0.2_-_localghosts.pdf)
