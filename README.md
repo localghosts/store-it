@@ -23,7 +23,7 @@ The web app is deployed at: [store-it-frontend.herokuapp.com](https://store-it-f
 
 A software requirements specification (SRS) is a document that describes what the software will do and how it will be expected to perform. It also describes the product's functionality to fulfill all stakeholders (sellers, buyers) needs.
 
-Link to SRS: [store.it SRS v0.1 | localghosts](github-assets/store.it_SRS_v0.1_-_localghosts.pdf)
+Link to SRS: [store.it SRS v0.2 | localghosts](github-assets/store.it_SRS_v0.2_-_localghosts.pdf)
 
 ## Software Design Document
 
