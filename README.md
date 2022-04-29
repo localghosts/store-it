@@ -13,11 +13,15 @@ The application, **store-it** aims to be a one-stop solution for the various ser
 
 **Clients**: IITK Vendors and Campus community
 
+### Project Presentation
+
+The project was presented in front of entire class. [Link to presentation](github-assets//store.it-Presentation-localghosts.pdf)
+
 ## Deployment
 
 The web app is deployed at: [store-it-frontend.herokuapp.com](https://store-it-frontend.herokuapp.com/)
 
-*Note:* This is hosted on Heroku which hibernates upon inactivity on website. It may take upto a minute to load for the first time post inactivity.
+_Note:_ This is hosted on Heroku which hibernates upon inactivity on website. It may take upto a minute to load for the first time post inactivity.
 
 ## Software Requirement Specification
 
